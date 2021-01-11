@@ -1,3 +1,8 @@
 import tkinter as tk
 
-test 
+def calcul(s):
+
+
+
+
+test
