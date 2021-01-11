@@ -1,8 +1,8 @@
 import tkinter as tk
-
+#la partie de Clement
 def calcul(s):
 
 
 
 
-test1
+#la partie de kubi
